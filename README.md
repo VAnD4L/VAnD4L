@@ -8,13 +8,13 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin] 
-<img align="left" alt="codeSTACKr | Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-128.png" />[Facebook]
+[<img align="left" alt="codeSTACKr | Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-128.png" />][Facebook]
 [<img align="left" title="Orenzelig@gmail.com" alt="codeSTACKr | Gmail" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-128.png" />][Email]
 
 
 [linkedin]: https://linkedin.com/in/oren-seligman-81a1b2154
 [Facebook]: https://www.facebook.com/oren.seligman/
-[Email]: Orenzelig@gmail.com
+[Email]: mailto:Orenzelig@gmail.com/
 
 </br>
 
