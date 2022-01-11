@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | Gmail" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-128.png" />][Email]
 
 
-[linkedin]: https://linkedin.com/in/eyal-ilan-91807418b
+[linkedin]: https://linkedin.com/in/oren-seligman-81a1b2154
 [Email]: Orenzelig@gmail.com
 
 </br>
