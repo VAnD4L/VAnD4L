@@ -1,5 +1,5 @@
 ## Hi there I'm  Oren a penetration tester
-### 📫 How to reach me: Orenzelig@gmail.com,050-313-0477
+### 📫 How to reach me: dodParket@gmail.com,
 ### 🌱 I’m currently learning penetration testing
 ### 🔭 I’m currently working on my projects
 ### 👯 I’m looking to collaborate with others on Cyber security or any open source project  
