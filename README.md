@@ -2,7 +2,8 @@
 ### 📫 How to reach me: orenzelig@gmail.com,
 ### 🪛 I’m currently working as a penetration tester
 ### 🔭 I’m currently studying about mobile application exploitation 
-### 👯 I’m looking to collaborate with others on Cyber security or any open source projects related 
+### 👯 I’m looking to collaborate with others on Cyber security or any related open source projects 
+### 💬 Ask me about android cyber security , reverse engeneering and malware analysis
 
 ![VAnD4L github stats](https://github-readme-stats.vercel.app/api?username=VAnD4L&show_icons=true&theme=tokyonight)
 
@@ -35,8 +36,11 @@
 
  <img width="32px" title="Postman" align="left" alt="Postman" src="https://www.logolynx.com/images/logolynx/f5/f5d41d6b7c54dafe7cd717d09903c275.jpeg">
 
-       
-<img width="32px" title="Redux" align="left" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+ <img width="32px" title="Redux" align="left" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+
+ <img width="32px" title="Frida" align="left" alt="Frida" src="https://avatars.githubusercontent.com/u/4073090?s=48&v=4">
+
+ <img width="32px" title="Android" align="left" alt="Android" src="https://developer.android.com/static/images/home/studio-bot_720.png">
 
  </br>
  </br>
@@ -53,6 +57,11 @@
   <img src="https://img.shields.io/badge/-Postman-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF">
   <img src="https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
   <img src="https://img.shields.io/badge/-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699">
+  <img src="https://img.shields.io/badge/-Frida-informational?style=flat&logo=Frida&logoColor=white&color=fc0303">
+  <img src="https://img.shields.io/badge/-Android-informational?style=flat&logo=Android&logoColor=white&color=36ba22">
+  <img src="https://img.shields.io/badge/-IOS-informational?style=flat&logo=IOS&logoColor=white&color=f5f7f5">
+  <img src="https://img.shields.io/badge/-powershell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE">
+  <img src="https://img.shields.io/badge/-csharp-informational?style=flat&logo=csharp&logoColor=white&color=512BD4">
 </p>
 
 
