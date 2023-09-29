@@ -36,7 +36,8 @@
 
  <img width="32px" title="MongoDB" align="left" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   
- <img width="32px" title="GitHub" align="left" alt="GitHub" src="https://p.kindpng.com/picc/s/255-2558173_github-logo-png-transparent-png.png" />
+ <img width="32px" title="GitHub" align="left" alt="GitHub" src="https://github.com/VAnD4L/VAnD4L/assets/36383010/e001b430-7011-4233-8483-b65f3624f182"
+ />
 
  <img width="32px" title="Express.js" align="left" alt="Express.js" src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2">
 
