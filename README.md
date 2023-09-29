@@ -1,8 +1,8 @@
 ## Hi there I'm  Oren a penetration tester
 ### 📫 How to reach me: orenzelig@gmail.com,
-### 🌱 I’m currently learning penetration testing
-### 🔭 I’m currently working on my projects
-### 👯 I’m looking to collaborate with others on Cyber security or any open source project  
+### 🪛 I’m currently working as a penetration tester
+### 🔭 I’m currently studying about mobile application exploitation 
+### 👯 I’m looking to collaborate with others on Cyber security or any open source projects related 
 
 ![VAnD4L github stats](https://github-readme-stats.vercel.app/api?username=VAnD4L&show_icons=true&theme=tokyonight)
 
